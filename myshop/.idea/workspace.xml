@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00aea20b-2222-43a5-a6da-5a5bfe3c9e7d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Chapter04/bookmarks/account/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter04/bookmarks/account/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter04/bookmarks/account/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter04/bookmarks/account/authentication.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter04/bookmarks/account/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter04/bookmarks/account/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter04/bookmarks/account/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter04/bookmarks/account/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter04/bookmarks/account/static/css/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter04/bookmarks/account/templates/account/dashboard.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter04/bookmarks/account/templates/account/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter04/bookmarks/account/templates/account/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter04/bookmarks/account/templates/account/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter04/bookmarks/account/templates/account/register_done.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter04/bookmarks/account/templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter04/bookmarks/account/templates/registration/logged_out.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter04/bookmarks/account/templates/registration/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter04/bookmarks/account/templates/registration/password_change_done.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter04/bookmarks/account/templates/registration/password_change_form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter04/bookmarks/account/templates/registration/password_reset_complete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter04/bookmarks/account/templates/registration/password_reset_confirm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter04/bookmarks/account/templates/registration/password_reset_done.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter04/bookmarks/account/templates/registration/password_reset_email.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter04/bookmarks/account/templates/registration/password_reset_form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter04/bookmarks/account/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter04/bookmarks/account/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter04/bookmarks/account/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter04/bookmarks/bookmarks/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter04/bookmarks/bookmarks/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter04/bookmarks/bookmarks/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter04/bookmarks/bookmarks/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter04/bookmarks/bookmarks/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter04/bookmarks/manage.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2WfGEBn5UqBtLZsCaKhocXveywX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/musakovskiysasha/PycharmProjects/Django-4-by-example/Chapter08/myshop"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00aea20b-2222-43a5-a6da-5a5bfe3c9e7d" name="Changes" comment="" />
+      <created>1697116106643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697116106643</updated>
+    </task>
+    <servers />
+  </component>
+</project>
